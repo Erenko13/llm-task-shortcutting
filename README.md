@@ -6,6 +6,7 @@ Eren Alp · Fatima Fellowship, Fall 2026 · "Blind Spots of Frontier Models" cha
 
 - All data, raw model outputs, labels and figures:
   [Hugging Face bucket `Erenko-13/llm-task-shortcutting`](https://huggingface.co/buckets/Erenko-13/llm-task-shortcutting)
+- Code repository: [GitHub `Erenko13/llm-task-shortcutting`](https://github.com/Erenko13/llm-task-shortcutting)
 - Code: [`task_shortcutting_eval.ipynb`](task_shortcutting_eval.ipynb) (generation and judging, Colab A100) and
   [`analyze_results.ipynb`](analyze_results.ipynb) (analysis, CPU)
 
