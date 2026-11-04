@@ -1,0 +1,21 @@
+# Secrets: never commit tokens
+.env
+*.env
+hf_token*
+*.token
+secrets/
+
+# Run outputs (they live in the Hugging Face bucket)
+artifacts/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Claude Code personal settings
+.claude/settings.local.json
+
+# OS
+Thumbs.db
+.DS_Store
